@@ -24,7 +24,7 @@
 
   ## ⭐️ Feature
   
-   <p align="center"><img src="https://github.com/dong149/rollingpaper-server/blob/develop/rollingpaper_announce.gif" width="30%"/></p>
+   <p align="center"><img src="https://github.com/dong149/rollingpaper-server/blob/develop/rollingpaper_announc.gif" width="30%"/></p>
   <h3><p align="center">
   1. 공유 기능 && 자랑하기 기능
   </p></h3>
